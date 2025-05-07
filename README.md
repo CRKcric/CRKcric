@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-🔭 I’m currently working on a few projects<br>🌱 I’m currently learning cybersecurity, web development and various other programming languages.<br>💬 Ask me about Python, MySQL, C, Java and HTML<br>⚡ Fun fact I can sing..
+🔭 I’m currently working on a few projects<br>🌱 I’m currently learning app development, web development and various other programming languages.<br>💬 Ask me about Python, MySQL, C, Java and HTML<br>⚡ Fun fact I can sing..
 
 
 ## 🌐 Socials:
