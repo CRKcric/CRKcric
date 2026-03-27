@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=160&section=header&text=C%20R%20Krishna&fontSize=34&fontAlignY=35&desc=Code%20%E2%80%A2%20Research%20%E2%80%A2%20Build&descAlignY=55)
+
 ## Hi there 👋
 
 # 💫 About Me:
