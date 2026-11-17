@@ -41,10 +41,12 @@
 ---
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-KrishnaVerse-4CA1AF?logo=googlechrome&logoColor=white)](https://crkcric.github.io/krishnaverse/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/CRKcric)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CRKrishna)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crkrishna44)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c-r-krishna)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crkrishna10a@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crkrishna10a@gmail.com)
 
 ---
 
